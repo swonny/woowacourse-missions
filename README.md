@@ -5,8 +5,8 @@
 |미션|레포지토리|1단계 PR|2단계 PR|관련 포스팅|
 |:---:|:----:|:----:|:----:|:----:|
 |자동차 경주 게임|[java-racingcar](https://github.com/swonny/java-racingcar)|[1단계 PR](https://github.com/woowacourse/java-racingcar/pull/471)|[2단계 PR](https://github.com/woowacourse/java-racingcar/pull/614)|-|
-|사다리 타기|[java-ladder](https://github.com/swonny/java-ladder)|[1단계 PR](https://github.com/woowacourse/java-ladder/pull/114)|[2단계 PR](https://github.com/woowacourse/java-ladder/pull/240)|-|
-|블랙잭|[java-blackjack](https://github.com/swonny/java-blackjack)|[1단계 PR](https://github.com/woowacourse/java-blackjack/pull/418)|[2단계 PR](https://github.com/woowacourse/java-blackjack/pull/562)|-|
+|사다리 타기|[java-ladder](https://github.com/swonny/java-ladder)|[1단계 PR](https://github.com/woowacourse/java-ladder/pull/114)|[2단계 PR](https://github.com/woowacourse/java-ladder/pull/240)|[팩토리 패턴의 필요성](https://tasteful-fork-3a7.notion.site/e4f1f0413ca94616a1fb931ef3e64ce5?pvs=4)|
+|블랙잭|[java-blackjack](https://github.com/swonny/java-blackjack)|[1단계 PR](https://github.com/woowacourse/java-blackjack/pull/418)|[2단계 PR](https://github.com/woowacourse/java-blackjack/pull/562)|[싱글톤 패턴](https://tasteful-fork-3a7.notion.site/6c33f3bfb1c543b1b79b1b25c224f744?pvs=4)|
 |체스|[java-chess](https://github.com/swonny/java-chess)|[1단계 PR](https://github.com/woowacourse/java-chess/pull/487)|[2단계 PR](https://github.com/woowacourse/java-chess/pull/624)|-|
 </br>
 
@@ -14,10 +14,10 @@
 
 |미션|레포지토리|1단계 PR|2단계 PR|관련 포스팅|
 |:---:|:----:|:----:|:----:|:----:|
-|자동차 경주 게임|[jwp-racingcar](https://github.com/swonny/jwp-racingcar)|[1단계 PR](https://github.com/woowacourse/jwp-racingcar/pull/98)|[2단계 PR](https://github.com/woowacourse/jwp-racingcar/pull/154)|-|
+|자동차 경주 게임|[jwp-racingcar](https://github.com/swonny/jwp-racingcar)|[1단계 PR](https://github.com/woowacourse/jwp-racingcar/pull/98)|[2단계 PR](https://github.com/woowacourse/jwp-racingcar/pull/154)|[DTO의 변환 책임은 어느 계층에 있을까?](https://tasteful-fork-3a7.notion.site/DTO-d4e992ce4894472eb991f1e76f461bc2?pvs=4)|
 |장바구니|[jwp-shopping-cart](https://github.com/swonny/jwp-shopping-cart)|[1단계 PR](https://github.com/woowacourse/jwp-shopping-cart/pull/250)|[2단계 PR](https://github.com/woowacourse/jwp-shopping-cart/pull/313)|-|
-|지하철 노선도|[jwp-subway-path](https://github.com/swonny/jwp-subway-path)|[1단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/31)|[2단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/192)|-|
-|쇼핑 주문|[jwp-shopping-order](https://github.com/swonny/jwp-shopping-order)|배포|[2단계 PR](https://github.com/woowacourse/jwp-shopping-order/pull/79)|-|
+|지하철 노선도|[jwp-subway-path](https://github.com/swonny/jwp-subway-path)|[1단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/31)|[2단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/192)|[도메인이 아이디를 가져야 할까?](https://tasteful-fork-3a7.notion.site/951a64a2f34e4cbdb9b63124f8d22661?pvs=4)|
+|쇼핑 주문|[jwp-shopping-order](https://github.com/swonny/jwp-shopping-order)|배포|[2단계 PR](https://github.com/woowacourse/jwp-shopping-order/pull/79)|[모든 원시값을 VO로 변경하며 느낀 VO의 이점](https://tasteful-fork-3a7.notion.site/VO-VO-2f41e2f8b9b54bc18b0a286b85639bc9?pvs=4)|
 </br>
 
 ## 레벨 3
