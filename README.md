@@ -52,3 +52,8 @@
 |JDBC 라이브러리 구현|[jwp-dashboard-jdbc](https://github.com/swonny/jwp-dashboard-jdbc)|[1, 2단계 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/410)</br>[3단계 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/534)</br>[4단계 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/584)|
 |레거시 코드 리팩터링|[jwp-refactoring](https://github.com/swonny/jwp-refactoring)|[1단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/486)|[2단계 PR]</br>(https://github.com/woowacourse/jwp-refactoring/pull/668)|
 </br>
+
+## 레벨 5
+
+- 프로젝트를 진행하던 중 겪은 트러블슈팅 중 궁금증이 생긴 주제에 대해 깊게 학습하고 작성한 글입니다.
+- [링크](https://wonny-seung.tistory.com/2)
